@@ -66,15 +66,21 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
 </p>
 
 
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddharthcdt25&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthcdt25&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddharthcdt25&show_icons=true&theme=merko&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthcdt25&layout=compact&theme=merko&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthcdt25&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthcdt25&theme=merko&hide_border=true" />
 </p>
 
 <br/>
@@ -82,9 +88,5 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=merko&hide_border=true" />
 </p>
