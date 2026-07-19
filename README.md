@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Siddharth Kashyap 👋</h1>
-
 <p align="center">
-Final-year B.Tech CSE student | Aspiring AI/ML Engineer<br/>
-Focused on Machine Learning, Deep Learning, and Data Science
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Siddharth%20Kashyap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 </p>
 
 <p align="center">
@@ -17,27 +14,34 @@ Focused on Machine Learning, Deep Learning, and Data Science
   </a>
 </p>
 
----
+<p align="center">
+Final-year B.Tech CSE student focused on Machine Learning, Deep Learning, and Data Science.<br/>
+Building a solid foundation in Python and ML while preparing for AI/ML internships and placements.
+</p>
 
-### 🚀 About Me
+<br/>
 
-I am focused on building a solid foundation in Python, machine learning, and deep learning, while preparing for AI/ML internships and placement opportunities.
+## 🛠️ Tech Stack
 
-**Currently learning:** Advanced ML techniques, deep learning & computer vision, and MLOps fundamentals.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,mysql,react,nodejs,git,vscode,jupyter&theme=dark" />
 </p>
 
-**ML & Data:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<br/>
 
----
+## 🤖 ML & Data
 
-### 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddharthcdt25&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -48,6 +52,14 @@ I am focused on building a solid foundation in Python, machine learning, and dee
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthcdt25&theme=tokyonight&hide_border=true" />
 </p>
 
+<br/>
+
+## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 </p>
