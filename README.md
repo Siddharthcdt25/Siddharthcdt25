@@ -82,13 +82,6 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddharthcdt25&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -106,7 +99,7 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=github-compact&hide_border=true&bg_color=0d1117&color=2d6a4f&line=2d6a4f&point=ffffff" />
 </p>
 
 <p align="center">
