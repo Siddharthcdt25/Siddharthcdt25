@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2D6A4F&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;Building+with+Python+%26+Deep+Learning;Open+to+Internship+Opportunities" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/siddharth-kashyap-37840b307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -15,11 +19,20 @@
 </p>
 
 <p align="center">
-Final-year B.Tech CSE student focused on Machine Learning, Deep Learning, and Data Science.<br/>
-Building a solid foundation in Python and ML while preparing for AI/ML internships and placements.
+  <img src="https://img.shields.io/badge/Open%20to-Internships-2d6a4f?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Siddharthcdt25&color=2d6a4f&style=for-the-badge&label=Profile+Views" />
 </p>
 
-<br/>
+---
+
+## 👋 About Me
+
+Final-year B.Tech CSE student focused on Machine Learning, Deep Learning, and Data Science.
+Building a solid foundation in Python and ML while preparing for AI/ML internships and placements.
+
+**Currently learning:** Advanced ML techniques, deep learning & computer vision, and MLOps fundamentals.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +67,8 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
+---
+
 ## 🤖 ML & Data
 
 <p align="center">
@@ -64,6 +79,16 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddharthcdt25&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -76,16 +101,14 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthcdt25&theme=merko&hide_border=true" />
 </p>
 
-<br/>
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=merko&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,100:0f3d2e&height=100&section=footer" width="100%"/>
 </p>
-
