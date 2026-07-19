@@ -65,13 +65,6 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -89,4 +82,10 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=merko&hide_border=true" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 </p>
