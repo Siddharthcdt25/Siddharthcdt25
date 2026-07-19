@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Siddharth%20Kashyap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:2d6a4f&height=220&section=header&text=Siddharth%20Kashyap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
 </p>
 
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,100:0f3d2e&height=100&section=footer" width="100%"/>
 </p>
+
