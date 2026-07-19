@@ -102,6 +102,7 @@ Building a solid foundation in Python and ML while preparing for AI/ML internshi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&bg_color=0a0f0b&color=68b587&line=abd200&point=b7d364&hide_border=true" />
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,100:0f3d2e&height=100&section=footer" width="100%"/>
 </p>
