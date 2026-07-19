@@ -63,9 +63,10 @@ I am focused on building a solid foundation in **Python, machine learning, deep 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthcdt25&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthcdt25&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharthcdt25&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthcdt25&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages"/>
 </p>
+
 
 ---
 
@@ -74,6 +75,13 @@ I am focused on building a solid foundation in **Python, machine learning, deep 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Siddharthcdt25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthcdt25&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
 
 ---
 
